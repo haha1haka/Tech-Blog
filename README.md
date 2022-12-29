@@ -1,10 +1,6 @@
 # Blog Posting
 
-
-
-
-
-<br/><br/>
+<br/>
 
 ### Swift
 
@@ -43,7 +39,12 @@
 
 <br/>
 
+### Rx
 
+* [Observable, observer, Disposable](https://github.com/haha1haka/Tech-Blog/issues/37)
+* [Subject와 Relay 그리고 Driver](https://github.com/haha1haka/Tech-Blog/issues/39)
+
+<br/>
 
 ### WWDC & Apple Documentation
 
@@ -80,7 +81,6 @@
 
 
 <br/>
-
 
 
 
