@@ -12,6 +12,16 @@
 * [값 타입의 Copy-on-Write](https://github.com/haha1haka/Tech-Blog/issues/34)
 * [iOS App Life-Cycle](https://github.com/haha1haka/Tech-Blog/issues/35)
 * [iOS ViewController Life-Cycle](https://github.com/haha1haka/Tech-Blog/issues/36)
+* [colletion type의 종류와 특징](https://github.com/haha1haka/Tech-Blog/issues/42)
+* [이니셜라이저, convenience init](https://github.com/haha1haka/Tech-Blog/issues/41)
+* [enum의 caselterable과 연관값](https://github.com/haha1haka/Tech-Blog/issues/44)
+* [optional과 optiona l내부구조에 대한 이해](https://github.com/haha1haka/Tech-Blog/issues/45)
+* [access control의 필요성과 각종류의 특징](https://github.com/haha1haka/Tech-Blog/issues/46)
+* [제네릭에 대해 설명](https://github.com/haha1haka/Tech-Blog/issues/47)
+* [extension에서 사용할수없는 프로퍼티가 무엇인지 설명하시오](https://github.com/haha1haka/Tech-Blog/issues/48)
+* [Method Dispatch(매서드 디스패치)](https://github.com/haha1haka/Tech-Blog/issues/49)
+* [struct와 class의 차이를 상속뺴고 설명하시오](https://github.com/haha1haka/Tech-Blog/issues/50)
+* [GCD에대해 설명하시오](https://github.com/haha1haka/Tech-Blog/issues/52)
 
 <br/>
 
@@ -34,6 +44,9 @@
 * [Firebase Analytics, Crashlytics](https://github.com/haha1haka/iOS-Topics/issues/15)
 * [ViewController](https://github.com/haha1haka/iOS-Topics/issues/6)
 * [FCM(Firebase Cloud Messaging)](https://github.com/haha1haka/iOS-Topics/issues/31)
+* [leading,left constraints 차이 설명하기](https://github.com/haha1haka/Tech-Blog/issues/40)
+* [frame과 bounds의 차이](https://github.com/haha1haka/Tech-Blog/issues/43)
+* [intrinsic size 와 content hugging priority](https://github.com/haha1haka/Tech-Blog/issues/51)
 
 
 
